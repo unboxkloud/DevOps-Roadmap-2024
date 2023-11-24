@@ -45,4 +45,9 @@ I hope with this I can help you in this highly rewarding, but challenging journe
     Since DevOps covers the whole software development lifecycle, it means you work with lots of technologies. Plus DevOps is still evolving and there are lots of new tools being developed all the time. So you have to be comfortable with constantly learning and expanding your knowledge, even after you have become a DevOps engineer.
 
 # 01 - Concepts of Software Development 
+  As a DevOps engineer you will not be programming the application, but as you are working closely with the development team to improve and automate tasks for them, you need to understand the concepts of:
+  - How developers work and collaborate *(Agile, Jira workflows)*
+  - What Git workflow they use,
+  - How applications are configured *(Build & packaging Tools)*
+  - And generally understand what the whole software development lifecycle covers from idea to code, all the way to releasing it to the end users!
 
