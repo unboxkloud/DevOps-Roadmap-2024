@@ -3,16 +3,16 @@
 ## I. START HERE
 
 ## II. DEVOPS ROADMAP
-  01 - Concepts of Software Development 
-  02 - OS and Linux Basics 
-  03 - Containerization - Docker 
-  04 - CI/CD Pipelines
-  05 - Learn 1 Cloud Provider
-  06- Container Orchestration - Kubernetes
-  07- Monitoring and Observability
-  08 - Infrastructure as Code
-  09 - Scripting Language
-  10 - Version Control - Git
+  - 01 - Concepts of Software Development 
+  - 02 - OS and Linux Basics 
+  - 03 - Containerization - Docker 
+  - 04 - CI/CD Pipelines
+  - 05 - Learn 1 Cloud Provider
+  - 06- Container Orchestration - Kubernetes
+  - 07- Monitoring and Observability
+  - 08 - Infrastructure as Code
+  - 09 - Scripting Language
+  - 10 - Version Control - Git
 
 ## III. STARTING DevOps Journey FROM...
   - Systems Administrator 
