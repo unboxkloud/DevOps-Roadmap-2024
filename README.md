@@ -25,3 +25,24 @@
   - Summary - DevOps Roadmap
   - All the Best...!
   - UnboxKloud resources..!!
+
+
+# I. START HERE
+  This is a ***Step-by-Step path I would take as a DevOps professional***, if I am starting from zero. Showing you what would be the most efficient path to become a DevOps engineer based on the existing knowledge & Experiance.
+
+I hope with this I can help you in this highly rewarding, but challenging journey into DevOps.
+
+  It is more individual for you based on your background from which you are transitioning into DevOps:
+  - system administrator
+  - software developer
+  - test automation engineer
+  - network engineer
+  - someone with zero or very little IT knowledge
+
+  So after the DevOps roadmap, you will find information on how to start in DevOps having any of these backgrounds.
+
+  One important thing beforehand:    
+    Since DevOps covers the whole software development lifecycle, it means you work with lots of technologies. Plus DevOps is still evolving and there are lots of new tools being developed all the time. So you have to be comfortable with constantly learning and expanding your knowledge, even after you have become a DevOps engineer.
+
+# 01 - Concepts of Software Development 
+
